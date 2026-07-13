@@ -4,6 +4,7 @@ description: Why zoning, supply, and financing are the levers reshaping the US r
 author: Chris McCoy
 date: July 2026
 eyebrow: Policy Analysis
+venue: Data4America 
 ---
 
 # America's Housing Crisis Explained
